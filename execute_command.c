@@ -1,12 +1,3 @@
-/*
-	Team 2: Exercise sheet2 
-
-	Members:
-		1.Jagan Shanmugam
-		2.Aastha 
-
-
-*/
 
 #include "headerfile.h"
 
